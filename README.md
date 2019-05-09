@@ -11,7 +11,7 @@ Solving a supervised learning problem requires to label a training set. This tas
 ## Citation
 @article{ruiz2019learning,\
   title={Learning from crowds with variational Gaussian processes},\
-  author={Ruiz, Pablo and Morales-{\'A}lvarez, Pablo and Molina, Rafael and Katsaggelos, Aggelos K},\
+  author={Ruiz, Pablo and Morales-{\\'A}lvarez, Pablo and Molina, Rafael and Katsaggelos, Aggelos K},\
   journal={Pattern Recognition},\
   volume={88},\
   pages={298--311},\
