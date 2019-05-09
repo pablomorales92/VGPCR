@@ -1,4 +1,4 @@
-Code for the method VGPCR, which uses variational inference to approximate the posterior in GP-based crowdsourcing models.\
+Code for the method VGPCR, which uses variational inference to approximate the posterior in GP-based crowdsourcing models.
 The approach was later extended to deal with larger datasets through the use of Fourier features: https://github.com/pablomorales92/RFFVFF-GPCR 
 
 Full reference:\
